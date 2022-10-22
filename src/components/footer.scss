@@ -1,0 +1,27 @@
+.footer {
+    width: 100%;
+    .footer-container {
+        .content {
+            display: flex;
+            flex-direction: column;
+            .logo {
+                width: 128px;
+                opacity: 0.7;
+            }
+            .info {
+                padding: 18px 0;
+                .info-list {
+                    .copy-body-small {
+                        padding: 4px 0;
+                        color: $cl-gray;
+                    }
+                }
+            }
+            .copyright {
+                .copy-body-small {
+                    color: $cl-gray;
+                }
+            }
+        }
+    }
+}

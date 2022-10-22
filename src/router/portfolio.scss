@@ -1,0 +1,12 @@
+.page-portfolio {
+    margin-top: 136px;
+    .page-container {
+        display: flex;
+        align-items: center;
+        .content {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+        }
+    }
+}

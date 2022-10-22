@@ -1,0 +1,10 @@
+{
+  "image" : [],
+  "icon" : [
+    { "logoColor" : "/assets/svg/logo-color.svg" },
+    { "logoMono" : "/assets/svg/logo-mono.svg" }
+  ],
+  "video" : [
+    { "mainVideo" : "/assets/video/main-video.mp4" }
+  ]
+}

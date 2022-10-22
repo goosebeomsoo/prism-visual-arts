@@ -1,0 +1,42 @@
+.video-block {
+    position: relative;
+    width: 25%;
+    height: 300px;
+    overflow: hidden;
+    @include mobile {
+        width: 100%;
+    }
+    .desc-layer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 10;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        opacity: 0;
+        transition: 0.3s ease;
+        cursor: pointer;
+        &:hover {
+            opacity: 1;
+        }
+        .copy-heading {
+            color: $cl-white;
+        }
+        .copy-sub-heading {
+            color: $cl-lg-gray;
+        }
+    }
+    .thumb-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}

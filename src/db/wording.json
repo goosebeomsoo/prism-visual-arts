@@ -1,0 +1,20 @@
+{
+    "process" : [
+        {
+            "title" : "STRATEGY", 
+            "desc" : "We brainstorm your creative concept, outline and schedule each step of the production process, and collect the details we need to get started."
+        },
+        {
+            "title" : "PRE-PRODUCTION", 
+            "desc" : "We cast the perfect talent, scout locations, create call sheets, script and storyboard your video. and prepare other elements of your project for produciton."
+        },
+        {
+            "title" : "PRODUCTION", 
+            "desc" : "We capture footage, manage photography, and handle all creww and art direction from start to finish."
+        },
+        {
+            "title" : "POST-PRODUCTION", 
+            "desc" : "We edit your footage, handle color and sound correction, create graphics and animation, and more to bring your story to life."
+        }
+    ]
+}

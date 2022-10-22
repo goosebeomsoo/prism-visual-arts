@@ -1,0 +1,101 @@
+$cl-main : #CE328A;
+
+$cl-white : #FFFFFF;
+$cl-lg-gray : #eee;
+$cl-gray : #545454;
+$cl-dk-gray : #2e2e2e;
+$cl-black : #191919;
+
+@mixin mobile{
+    @media (max-width: 767px){ 
+      @content;
+    }
+}
+
+@mixin tablet{
+    @media (min-width: 768px) and (max-width: 1023px){
+      @content;
+    }
+}
+
+@mixin font-title {
+    font-size: 48px;
+    line-height: 54px;
+    font-weight: bold;
+    @include tablet {
+        font-size : 36px;
+        line-height: 48px;
+    }
+    @include mobile {
+        font-size: 24px;
+        line-height: 36px;
+    }
+}
+
+@mixin font-heading {
+    font-size: 36px;
+    line-height: 48px;
+    font-weight: bold;
+    @include tablet {
+        font-size : 24px;
+        line-height: 36px;
+    }
+    @include mobile {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
+
+@mixin font-sub-heading {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: bold;
+    @include tablet {
+        font-size : 18px;
+        line-height: 24px;
+    }
+    @include mobile {
+        font-size: 16px;
+        line-height: 22px;
+    }
+}
+
+@mixin font-body {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: normal;
+    @include mobile {
+        font-size: 10px;
+        line-height: 18px;
+    }
+}
+
+@mixin font-body-small {
+    font-size: 10px;
+    line-height: 14px;
+    font-weight: normal;
+    @include mobile {
+        font-size: 8px;
+        line-height: 12px;
+    }
+}
+
+.copy-title {
+    @include font-title
+}
+
+.copy-heading {
+    @include font-heading
+}
+
+.copy-sub-heading {
+    @include font-sub-heading
+}
+
+.copy-body {
+    @include font-body
+}
+
+.copy-body-small {
+    @include font-body-small
+}

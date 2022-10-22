@@ -1,0 +1,35 @@
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    .header-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .logo-wrap {
+            width: 192px;
+            @include mobile {
+                width: 128px;
+            }
+        }
+
+        .menu-list {
+            display: flex;
+            justify-content: center;
+            .tab {
+                padding: 0 12px;
+                transition: 0.3s ease;
+                color: $cl-gray;
+                cursor: pointer;
+                &:hover {
+                    color: $cl-main;
+                }
+            }
+            .tab-selected {
+                color: $cl-main;
+            }
+        }
+    }
+}

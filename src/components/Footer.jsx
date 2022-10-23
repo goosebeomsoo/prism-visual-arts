@@ -15,13 +15,13 @@ function Footer() {
           </div>
           <div className="info">
             <ul className="info-list">
-              <li className="copy-body-small">prismvisualarts@gmail.com</li>
-              <li className="copy-body-small">Seoul, sinsa</li>
+              <li className="info copy-body">prismvisualarts@gmail.com</li>
+              <li className="info copy-body">3F, Dosandae-ro 128, Gangnam-gu, Seoul</li>
             </ul>
           </div>
-          <div className="copyright">
-            <p className="copy-body-small">
-              @PRISM VISUAL ARTS 2022.
+          <div className="copyright-wrap">
+            <p className="copyright copy-body">
+              &#169; PRISM VISUAL ARTS 2022.
             </p>
           </div>
         </div>

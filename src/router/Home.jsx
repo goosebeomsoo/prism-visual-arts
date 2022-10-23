@@ -9,11 +9,7 @@ function Home() {
       <div className="page-container container">
         <div className="content">
           <h2 className="copy-title">
-            Add beauty in your story -
-            <span>
-              &nbsp;Prism Visual Arts&nbsp;
-            </span>
-            creates video advertisements adding &ldquo;meaning&rdquo; to your tales. Let us listen to your story in detail. We PRODUCE narrative series & commercials videos. Our contents CHALLENGE the barriers between platforms, and TRAVEL different cultures and territories to BRING BEAUTY to the world.  Producers Prism see the world through creative lens to see beyond the boarders.
+            Our contents CHALLENGE the barriers between platforms, and TRAVEL different cultures and territories to BRING BEAUTY to the world.  Producers Prism see the world through creative lens to see beyond the boarders.
           </h2>
         </div>
       </div>

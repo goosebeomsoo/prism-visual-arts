@@ -6,6 +6,8 @@ function VideoOverlay({
   current,
   setCurrent,
 }) {
+  document.cookie = 'crossCookie=bar; SameSite=None; Secure';
+
   return (
     <div className={current === index ? 'show-video-overlay video-overlay' : 'video-overlay'}>
       <div className="video-content">

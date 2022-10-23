@@ -23,7 +23,7 @@ function VideoBlock({
       </div>
       <img
         className="thumb-image"
-        src={list.thumb}
+        src={`.${list.thumb}`}
         alt={list.title}
       />
     </div>

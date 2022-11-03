@@ -1,76 +1,130 @@
 {
     "videos" : [
         {
-            "thumb" : "/assets/image/01_thumb.png",
-            "videoLink" : "lfrei-mD4GA",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/dance-film-hanbit.png",
+            "videoLink" : "w02lnJNWhbs",
+            "title" : "Hanbit",
+            "desc" : "Dance Film"
         },
         {
-            "thumb" : "/assets/image/02_thumb.png",
-            "videoLink" : "gG0gtiOSXcA",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/dance-film-yuna.png",
+            "videoLink" : "MUArzKl9np4",
+            "title" : "Binu",
+            "desc" : "Dance Film"
         },
         {
-            "thumb" : "/assets/image/03_thumb.jpg",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/dance-film-muon.png",
+            "videoLink" : "tJqpfZ4uLAU",
+            "title" : "M uon",
+            "desc" : "Dance Film"
         },
         {
-            "thumb" : "/assets/image/04_thumb.jpg",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/puff-on-crazy-love.png",
+            "videoLink" : "vPmibk0vBO4",
+            "title" : "Puff:ON - Crazy Love",
+            "desc" : "Music Video"
         },
         {
-            "thumb" : "/assets/image/05_thumb.jpg",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/elast-spring.png",
+            "videoLink" : "e2_n58VfOK0",
+            "title" : "E'LAST U - The beginning of spring",
+            "desc" : "M/V"
         },
         {
-            "thumb" : "/assets/image/06_thumb.jpg",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/dance-film-iki.png",
+            "videoLink" : "yDfsZW0dkYA",
+            "title" : "iKi",
+            "desc" : "Dance Film"
         },
         {
-            "thumb" : "/assets/image/07_thumb.jpg",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/dance-film-dinopaki.png",
+            "videoLink" : "kW60vOkWiUU",
+            "title" : "Dinopaki",
+            "desc" : "Dance Film"
         },
         {
-            "thumb" : "/assets/image/08_thumb.jpg",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/fashion-film-elobeforest.png",
+            "videoLink" : "FhydN2npb1Y",
+            "title" : "ELOBE FOREST",
+            "desc" : "Fashion Film"
         },
         {
-            "thumb" : "/assets/image/09_thumb.png",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/elast-dark-dream.jpg",
+            "videoLink" : "NgMamKLwceQ",
+            "title" : "E'LAST - Dark Dream",
+            "desc" : "M/V Making Film"
         },
         {
-            "thumb" : "/assets/image/10_thumb.png",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/romin-starlight.png",
+            "videoLink" : "zzt36EL3PMo",
+            "title" : "로민 - Starlight",
+            "desc" : "Cover Video"
         },
         {
-            "thumb" : "/assets/image/11_thumb.png",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/instagram-01.png",
+            "videoLink" : "JanbKqtvhvY",
+            "title" : "승엽 & 원준 - Instagram(딘)",
+            "desc" : "Cover Video"
         },
         {
-            "thumb" : "/assets/image/12_thumb.jpg",
-            "videoLink" : "",
-            "title" : "video01",
-            "desc" : "desc"
+            "thumb" : "/assets/image/instagram-02.png",
+            "videoLink" : "bOjKYz7q2qE",
+            "title" : "승엽 & 원준 - Instagram(딘)",
+            "desc" : "Cover Video"
+        },
+        {
+            "thumb" : "/assets/image/seungyeop-cover.png",
+            "videoLink" : "3Wpm9cnlbb4",
+            "title" : "승엽 - 내 마음이 움찔했던 순간(규현)",
+            "desc" : "Cover Video"
+        },
+        {
+            "thumb" : "/assets/image/fashion-film-jdx.png",
+            "videoLink" : "ur0jxFTnENE",
+            "title" : "JDX",
+            "desc" : "Fashion Film"
+        },
+        {
+            "thumb" : "/assets/image/showing.jpg",
+            "videoLink" : "YKoZ_zTD1cY",
+            "title" : "SHOWING",
+            "desc" : "Infographic"
+        },
+        {
+            "thumb" : "/assets/image/fashion-film-dohyun.jpg",
+            "videoLink" : "8CoFPp39JO0",
+            "title" : "Do Hyun",
+            "desc" : "Fashion Film"
+        },
+        {
+            "thumb" : "/assets/image/moving-trip.jpg",
+            "videoLink" : "8CoFPp39JO0",
+            "title" : "Moving Trip",
+            "desc" : "Trip Film"
+        },
+        {
+            "thumb" : "/assets/image/hyunseo-cho.png",
+            "videoLink" : "3-3TNkq1o4U",
+            "title" : "Cho Hyunseo - Feed",
+            "desc" : "Trip Film"
+        },
+        {
+            "thumb" : "/assets/image/fashion-film-bizalim.png",
+            "videoLink" : "CB8SBzUs5KM",
+            "title" : "ELOBE FOREST",
+            "desc" : "Fashion Film"
+        },
+        {
+            "thumb" : "/assets/image/elast-spring-practice.png",
+            "videoLink" : "gXpTr0mfFic",
+            "title" : "E'LAST U - The beginning of spring",
+            "desc" : "Dance Practice"
+        },
+        {
+            "thumb" : "/assets/image/fashion-film-jdx-02.png",
+            "videoLink" : "qWL1jSfBDW0",
+            "title" : "JDX",
+            "desc" : "Fashion Film"
         }
     ]
 }

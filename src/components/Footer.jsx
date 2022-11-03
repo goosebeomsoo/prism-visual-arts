@@ -10,7 +10,7 @@ function Footer() {
         <div className="content">
           <div className="logo">
             <Link to="/">
-              <img src={`.${assets.icon[1].logoMono}`} alt="logo" />
+              <img src={process.env.PUBLIC_URL + assets.icon[1].logoMono} alt="logo" />
             </Link>
           </div>
           <div className="info">

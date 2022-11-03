@@ -20,7 +20,7 @@ function Home() {
         playsInline
         loop
         muted
-        src={`.${assets.video[0].mainVideo}`}
+        src={process.env.PUBLIC_URL + assets.video[0].mainVideo}
       />
     </div>
   );

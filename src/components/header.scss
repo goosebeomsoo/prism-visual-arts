@@ -3,6 +3,10 @@
     position: fixed;
     top: 0;
     z-index: 10;
+    transition: 0.3s ease;
+    &:hover {
+        background: #191919;
+    }
     .header-container {
         display: flex;
         align-items: center;

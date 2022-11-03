@@ -33,7 +33,7 @@ function Header() {
             to="/"
             onClick={() => { setCurrentTab(0); }}
           >
-            <img src={`.${assets.icon[0].logoColor}`} alt="logo" />
+            <img src={process.env.PUBLIC_URL + assets.icon[0].logoColor} alt="logo" />
           </Link>
         </div>
         <ul className="menu-list">

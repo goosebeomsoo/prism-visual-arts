@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/prism-visual-arts/static/css/main.35e83c32.css",
-    "main.js": "/prism-visual-arts/static/js/main.17b56030.js",
-    "index.html": "/prism-visual-arts/index.html",
-    "main.35e83c32.css.map": "/prism-visual-arts/static/css/main.35e83c32.css.map",
-    "main.17b56030.js.map": "/prism-visual-arts/static/js/main.17b56030.js.map"
+    "main.css": "/static/css/main.35e83c32.css",
+    "main.js": "/static/js/main.f72fea60.js",
+    "index.html": "/index.html",
+    "main.35e83c32.css.map": "/static/css/main.35e83c32.css.map",
+    "main.f72fea60.js.map": "/static/js/main.f72fea60.js.map"
   },
   "entrypoints": [
     "static/css/main.35e83c32.css",
-    "static/js/main.17b56030.js"
+    "static/js/main.f72fea60.js"
   ]
 }

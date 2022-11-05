@@ -1,4 +1,5 @@
-import { React } from 'react';
+import { useRef, React } from 'react';
+import YouTube from 'react-youtube';
 
 function VideoOverlay({
   list,
@@ -6,30 +7,32 @@ function VideoOverlay({
   current,
   setCurrent,
 }) {
-  document.cookie = 'crossCookie=bar; SameSite=None; Secure';
-
+  const videoRef = useRef();
   return (
     <div className={current === index ? 'show-video-overlay video-overlay' : 'video-overlay'}>
       <div className="video-content">
-        <h3 className="copy-title">
-          {list.title}
-        </h3>
-        <p className="copy-sub-heading">
-          {list.desc}
-        </p>
-        <iframe
+        <YouTube
           className="expanded-video"
-          src={`https://www.youtube.com/embed/${list.videoLink}`}
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
+          title={list.title}
+          videoId={list.videoLink}
+          ref={videoRef}
+          opts={{
+            width: '100%',
+            height: '100%',
+            playerVars: {
+              autoplay: 0,
+              rel: 0,
+              modestbranding: 1, // 컨트롤 바에 youtube 로고를 표시하지 않음
+            },
+          }}
+          onEnd={(e) => { e.target.stopVideo(0); }}
         />
         <div
           className="close-btn"
           role="presentation"
           onClick={() => {
             setCurrent();
+            videoRef.current.resetPlayer();
           }}
         >
           <p className="copy-sub-heading">

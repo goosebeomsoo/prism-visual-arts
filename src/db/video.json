@@ -1,6 +1,24 @@
 {
     "videos" : [
         {
+            "thumb" : "/assets/image/sixone-ad-01.png",
+            "videoLink" : "QvjYd8YXYFw",
+            "title" : "SIXONE | GLASH 착붙속눈썹 광고",
+            "desc" : "Advertisement"
+        },
+        {
+            "thumb" : "/assets/image/temp.png",
+            "videoLink" : "t8Ork6Hc23k",
+            "title" : "조나단 공화춘 광고",
+            "desc" : "Advertisement"
+        },
+        {
+            "thumb" : "/assets/image/sixone-ad-02.png",
+            "videoLink" : "4i4rAHRAxhs",
+            "title" : "SIXONE | 친절한 영어교실 광고",
+            "desc" : "Advertisement"
+        },
+        {
             "thumb" : "/assets/image/dance-film-hanbit.png",
             "videoLink" : "w02lnJNWhbs",
             "title" : "Hanbit",
@@ -55,18 +73,6 @@
             "desc" : "M/V Making Film"
         },
         {
-            "thumb" : "/assets/image/romin-starlight.png",
-            "videoLink" : "zzt36EL3PMo",
-            "title" : "로민 - Starlight",
-            "desc" : "Cover Video"
-        },
-        {
-            "thumb" : "/assets/image/instagram-01.png",
-            "videoLink" : "JanbKqtvhvY",
-            "title" : "승엽 & 원준 - Instagram(딘)",
-            "desc" : "Cover Video"
-        },
-        {
             "thumb" : "/assets/image/instagram-02.png",
             "videoLink" : "bOjKYz7q2qE",
             "title" : "승엽 & 원준 - Instagram(딘)",
@@ -85,28 +91,10 @@
             "desc" : "Fashion Film"
         },
         {
-            "thumb" : "/assets/image/showing.jpg",
-            "videoLink" : "YKoZ_zTD1cY",
-            "title" : "SHOWING",
-            "desc" : "Infographic"
-        },
-        {
             "thumb" : "/assets/image/fashion-film-dohyun.jpg",
             "videoLink" : "8CoFPp39JO0",
             "title" : "Do Hyun",
             "desc" : "Fashion Film"
-        },
-        {
-            "thumb" : "/assets/image/moving-trip.jpg",
-            "videoLink" : "8CoFPp39JO0",
-            "title" : "Moving Trip",
-            "desc" : "Trip Film"
-        },
-        {
-            "thumb" : "/assets/image/hyunseo-cho.png",
-            "videoLink" : "3-3TNkq1o4U",
-            "title" : "Cho Hyunseo - Feed",
-            "desc" : "Trip Film"
         },
         {
             "thumb" : "/assets/image/fashion-film-bizalim.png",

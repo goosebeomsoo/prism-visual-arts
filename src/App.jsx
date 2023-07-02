@@ -11,7 +11,7 @@ import Home from './router/Home';
 import Portfolio from './router/Portfolio';
 // import Process from './router/Process';
 
-import './style.scss';
+import './_style.scss';
 
 function App() {
   return (

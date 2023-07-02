@@ -1,6 +1,18 @@
 {
     "videos" : [
         {
+            "thumb" : "/assets/image/ay-mamita.png",
+            "videoLink" : "bUZ45xwBEbU",
+            "title" : "유준상, 로민, 원준 - 아이마미따 (Ay Mamita) M/V",
+            "desc" : "Advertisement"
+        },
+        {
+            "thumb" : "/assets/image/eliast-thrill.png",
+            "videoLink" : "kcdGCBZKJng",
+            "title" : "E'LAST - THRILL",
+            "desc" : "Live Clip"
+        },
+        {
             "thumb" : "/assets/image/sixone-ad-01.png",
             "videoLink" : "QvjYd8YXYFw",
             "title" : "SIXONE | GLASH 착붙속눈썹 광고",

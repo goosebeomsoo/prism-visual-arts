@@ -1,0 +1,24 @@
+@import './_reset.scss';
+@import './_variable.scss';
+
+@import './components/_footer.scss';
+@import './components/_header.scss';
+@import './components/_video-block.scss';
+@import './components/_video-overlay.scss';
+
+@import './router/_home.scss';
+@import './router/_process.scss';
+@import './router/_portfolio.scss';
+
+body {
+    background: $cl-black;
+    word-break: keep-all;
+}
+
+.container {
+    padding: 48px 72px;
+
+    @include mobile {
+        padding: 16px 12px;
+    }
+}

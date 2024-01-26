@@ -1,10 +1,16 @@
 {
     "videos" : [
         {
+            "thumb" : "/assets/image/han-bang.png",
+            "videoLink" : "fTuIEu1rfjg",
+            "title" : "고규필수앱 한방",
+            "desc" : "Advertisement"
+        },
+        {
             "thumb" : "/assets/image/ay-mamita.png",
             "videoLink" : "bUZ45xwBEbU",
             "title" : "유준상, 로민, 원준 - 아이마미따 (Ay Mamita) M/V",
-            "desc" : "Advertisement"
+            "desc" : "Music Video"
         },
         {
             "thumb" : "/assets/image/eliast-thrill.png",

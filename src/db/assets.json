@@ -1,8 +1,8 @@
 {
   "image" : [],
   "icon" : [
-    { "logoColor" : "/assets/svg/logo-color.svg" },
-    { "logoMono" : "/assets/svg/logo-mono.svg" }
+    { "logoColor" : "/assets/svg/funnches.svg" },
+    { "logoMono" : "/assets/svg/funnches-footer.svg" }
   ],
   "video" : [
     { "mainVideo" : "/assets/video/main-video.mp4" }

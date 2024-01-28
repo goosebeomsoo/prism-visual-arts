@@ -21,7 +21,7 @@ function Footer() {
           </div>
           <div className="copyright-wrap">
             <p className="copyright copy-body">
-              &#169; PRISM VISUAL ARTS 2022.
+              &#169; FUNNCHES 2024.
             </p>
           </div>
         </div>

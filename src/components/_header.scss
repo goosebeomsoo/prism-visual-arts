@@ -17,6 +17,14 @@
             @include mobile {
                 width: 128px;
             }
+
+            a {
+                width: 100%;
+                display: block;
+                img {
+                    width: 100%;
+                }
+            }
         }
 
         .menu-list {

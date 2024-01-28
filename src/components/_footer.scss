@@ -7,6 +7,13 @@
             .logo {
                 width: 128px;
                 opacity: 0.7;
+                a {
+                    display: block;
+                    width: 100%;
+                    img {
+                        width: 100%;
+                    }
+                }
             }
             .info {
                 padding: 18px 0;

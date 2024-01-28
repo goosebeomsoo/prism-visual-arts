@@ -1,7 +1,7 @@
 {
-  "name": "prism-visual-arts",
+  "name": "funnches",
   "version": "0.1.0",
-  "homepage": "https://prismvisualarts.com/",
+  "homepage": "https://prismvisularts.com/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

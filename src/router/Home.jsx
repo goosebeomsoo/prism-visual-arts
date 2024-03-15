@@ -1,5 +1,4 @@
 /* eslint-disable max-len */
-import { React } from 'react';
 import assets from '../db/assets.json';
 // import main_video from '../assets/video/main-video.mp4';
 
@@ -9,7 +8,10 @@ function Home() {
       <div className="page-container container">
         <div className="content">
           <h2 className="copy-title">
-            Our contents CHALLENGE the barriers between platforms, and TRAVEL different cultures and territories to BRING BEAUTY to the world.  Producers Prism see the world through creative lens to see beyond the boarders.
+            Our contents CHALLENGE the barriers between platforms, and TRAVEL
+            different cultures and territories to BRING BEAUTY to the world.
+            Producers Prism see the world through creative lens to see beyond
+            the boarders.
           </h2>
         </div>
       </div>

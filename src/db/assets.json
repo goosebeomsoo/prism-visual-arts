@@ -1,10 +1,8 @@
 {
-  "image" : [],
-  "icon" : [
-    { "logoColor" : "/assets/svg/funnches.svg" },
-    { "logoMono" : "/assets/svg/funnches-footer.svg" }
+  "image": [],
+  "icon": [
+    { "logoColor": "/assets/svg/logo-color.svg" },
+    { "logoMono": "/assets/svg/logo-mono.svg" }
   ],
-  "video" : [
-    { "mainVideo" : "/assets/video/main-video.mp4" }
-  ]
+  "video": [{ "mainVideo": "/assets/video/main-video.mp4" }]
 }

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import video from '../db/video.json';
 
 import VideoBlock from '../components/VideoBlock';
@@ -6,7 +6,9 @@ import VideoOverlay from '../components/VideoOverlay';
 
 function Portfolio() {
   const [current, setCurrent] = useState();
-  const setCurrentState = (index) => { setCurrent(index); };
+  const setCurrentState = (index) => {
+    setCurrent(index);
+  };
 
   const videoList = video.videos.map((list, index) => (
     <VideoBlock
@@ -29,13 +31,9 @@ function Portfolio() {
   return (
     <div className="page-portfolio">
       <div className="page-container container">
-        <div className="content">
-          {videoList}
-        </div>
+        <div className="content">{videoList}</div>
 
-        <div className="expanded-overlay-list">
-          {overlayVideoList}
-        </div>
+        <div className="expanded-overlay-list">{overlayVideoList}</div>
       </div>
     </div>
   );

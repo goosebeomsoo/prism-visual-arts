@@ -1,11 +1,13 @@
-import { React, useState } from 'react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 import assets from '../db/assets.json';
 
 function Header() {
   const [currentTab, setCurrentTab] = useState(0);
-  const selectMenuHandler = (index) => { setCurrentTab(index); };
+  const selectMenuHandler = (index) => {
+    setCurrentTab(index);
+  };
 
   const menuList = [
     { link: '/', name: 'HOME' },
@@ -16,7 +18,11 @@ function Header() {
   const menuLists = menuList.map((list, index) => (
     <Link to={list.link} key={list.name}>
       <li
-        className={currentTab === index ? 'tab  tab-selected copy-sub-heading' : 'tab copy-sub-heading'}
+        className={
+          currentTab === index
+            ? 'tab  tab-selected copy-sub-heading'
+            : 'tab copy-sub-heading'
+        }
         onClick={() => selectMenuHandler(index)}
         role="presentation"
       >
@@ -31,14 +37,17 @@ function Header() {
         <div className="logo-wrap">
           <Link
             to="/"
-            onClick={() => { setCurrentTab(0); }}
+            onClick={() => {
+              setCurrentTab(0);
+            }}
           >
-            <img src={process.env.PUBLIC_URL + assets.icon[0].logoColor} alt="logo" />
+            <img
+              src={process.env.PUBLIC_URL + assets.icon[0].logoColor}
+              alt="logo"
+            />
           </Link>
         </div>
-        <ul className="menu-list">
-          {menuLists}
-        </ul>
+        <ul className="menu-list">{menuLists}</ul>
       </div>
     </header>
   );

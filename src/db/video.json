@@ -1,136 +1,172 @@
 {
-    "videos" : [
-        {
-            "thumb" : "/assets/image/han-bang.png",
-            "videoLink" : "fTuIEu1rfjg",
-            "title" : "고규필수앱 한방",
-            "desc" : "Advertisement"
-        },
-        {
-            "thumb" : "/assets/image/ay-mamita.png",
-            "videoLink" : "bUZ45xwBEbU",
-            "title" : "유준상, 로민, 원준 - 아이마미따 (Ay Mamita) M/V",
-            "desc" : "Music Video"
-        },
-        {
-            "thumb" : "/assets/image/eliast-thrill.png",
-            "videoLink" : "kcdGCBZKJng",
-            "title" : "E'LAST - THRILL",
-            "desc" : "Live Clip"
-        },
-        {
-            "thumb" : "/assets/image/sixone-ad-01.png",
-            "videoLink" : "QvjYd8YXYFw",
-            "title" : "SIXONE | GLASH 착붙속눈썹 광고",
-            "desc" : "Advertisement"
-        },
-        {
-            "thumb" : "/assets/image/temp.png",
-            "videoLink" : "t8Ork6Hc23k",
-            "title" : "조나단 공화춘 광고",
-            "desc" : "Advertisement"
-        },
-        {
-            "thumb" : "/assets/image/sixone-ad-02.png",
-            "videoLink" : "4i4rAHRAxhs",
-            "title" : "SIXONE | 친절한 영어교실 광고",
-            "desc" : "Advertisement"
-        },
-        {
-            "thumb" : "/assets/image/dance-film-hanbit.png",
-            "videoLink" : "w02lnJNWhbs",
-            "title" : "Hanbit",
-            "desc" : "Dance Film"
-        },
-        {
-            "thumb" : "/assets/image/dance-film-yuna.png",
-            "videoLink" : "MUArzKl9np4",
-            "title" : "Binu",
-            "desc" : "Dance Film"
-        },
-        {
-            "thumb" : "/assets/image/dance-film-muon.png",
-            "videoLink" : "tJqpfZ4uLAU",
-            "title" : "M uon",
-            "desc" : "Dance Film"
-        },
-        {
-            "thumb" : "/assets/image/puff-on-crazy-love.png",
-            "videoLink" : "vPmibk0vBO4",
-            "title" : "Puff:ON - Crazy Love",
-            "desc" : "Music Video"
-        },
-        {
-            "thumb" : "/assets/image/elast-spring.png",
-            "videoLink" : "e2_n58VfOK0",
-            "title" : "E'LAST U - The beginning of spring",
-            "desc" : "M/V"
-        },
-        {
-            "thumb" : "/assets/image/dance-film-iki.png",
-            "videoLink" : "yDfsZW0dkYA",
-            "title" : "iKi",
-            "desc" : "Dance Film"
-        },
-        {
-            "thumb" : "/assets/image/dance-film-dinopaki.png",
-            "videoLink" : "kW60vOkWiUU",
-            "title" : "Dinopaki",
-            "desc" : "Dance Film"
-        },
-        {
-            "thumb" : "/assets/image/fashion-film-elobeforest.png",
-            "videoLink" : "FhydN2npb1Y",
-            "title" : "ELOBE FOREST",
-            "desc" : "Fashion Film"
-        },
-        {
-            "thumb" : "/assets/image/elast-dark-dream.jpg",
-            "videoLink" : "NgMamKLwceQ",
-            "title" : "E'LAST - Dark Dream",
-            "desc" : "M/V Making Film"
-        },
-        {
-            "thumb" : "/assets/image/instagram-02.png",
-            "videoLink" : "bOjKYz7q2qE",
-            "title" : "승엽 & 원준 - Instagram(딘)",
-            "desc" : "Cover Video"
-        },
-        {
-            "thumb" : "/assets/image/seungyeop-cover.png",
-            "videoLink" : "3Wpm9cnlbb4",
-            "title" : "승엽 - 내 마음이 움찔했던 순간(규현)",
-            "desc" : "Cover Video"
-        },
-        {
-            "thumb" : "/assets/image/fashion-film-jdx.png",
-            "videoLink" : "ur0jxFTnENE",
-            "title" : "JDX",
-            "desc" : "Fashion Film"
-        },
-        {
-            "thumb" : "/assets/image/fashion-film-dohyun.jpg",
-            "videoLink" : "8CoFPp39JO0",
-            "title" : "Do Hyun",
-            "desc" : "Fashion Film"
-        },
-        {
-            "thumb" : "/assets/image/fashion-film-bizalim.png",
-            "videoLink" : "CB8SBzUs5KM",
-            "title" : "ELOBE FOREST",
-            "desc" : "Fashion Film"
-        },
-        {
-            "thumb" : "/assets/image/elast-spring-practice.png",
-            "videoLink" : "gXpTr0mfFic",
-            "title" : "E'LAST U - The beginning of spring",
-            "desc" : "Dance Practice"
-        },
-        {
-            "thumb" : "/assets/image/fashion-film-jdx-02.png",
-            "videoLink" : "qWL1jSfBDW0",
-            "title" : "JDX",
-            "desc" : "Fashion Film"
-        }
-    ]
+  "videos": [
+    {
+      "thumb": "/assets/image/han-bang.png",
+      "videoLink": "fTuIEu1rfjg",
+      "title": "고규필수앱 한방",
+      "desc": "Advertisement"
+    },
+    {
+      "thumb": "/assets/image/ay-mamita.png",
+      "videoLink": "bUZ45xwBEbU",
+      "title": "유준상, 로민, 원준 - 아이마미따 (Ay Mamita) M/V",
+      "desc": "Music Video"
+    },
+    {
+      "thumb": "/assets/image/eliast-thrill.png",
+      "videoLink": "kcdGCBZKJng",
+      "title": "E'LAST - THRILL",
+      "desc": "Live Clip"
+    },
+    {
+      "thumb": "/assets/image/sixone-ad-01.png",
+      "videoLink": "QvjYd8YXYFw",
+      "title": "SIXONE | GLASH 착붙속눈썹 광고",
+      "desc": "Advertisement"
+    },
+    {
+      "thumb": "/assets/image/temp.png",
+      "videoLink": "t8Ork6Hc23k",
+      "title": "조나단 공화춘 광고",
+      "desc": "Advertisement"
+    },
+    {
+      "thumb": "/assets/image/sixone-ad-02.png",
+      "videoLink": "4i4rAHRAxhs",
+      "title": "SIXONE | 친절한 영어교실 광고",
+      "desc": "Advertisement"
+    },
+    {
+      "thumb": "/assets/image/dance-film-hanbit.png",
+      "videoLink": "w02lnJNWhbs",
+      "title": "Hanbit",
+      "desc": "Dance Film"
+    },
+    {
+      "thumb": "/assets/image/dance-film-yuna.png",
+      "videoLink": "MUArzKl9np4",
+      "title": "Binu",
+      "desc": "Dance Film"
+    },
+    {
+      "thumb": "/assets/image/dance-film-muon.png",
+      "videoLink": "tJqpfZ4uLAU",
+      "title": "M uon",
+      "desc": "Dance Film"
+    },
+    {
+      "thumb": "/assets/image/puff-on-crazy-love.png",
+      "videoLink": "mOyJ15MgW9s",
+      "title": "Puff:ON - Crazy Love",
+      "desc": "Music Video"
+    },
+    {
+      "thumb": "/assets/image/elast-spring.png",
+      "videoLink": "e2_n58VfOK0",
+      "title": "E'LAST U - The beginning of spring",
+      "desc": "M/V"
+    },
+    {
+      "thumb": "/assets/image/dance-film-iki.png",
+      "videoLink": "yDfsZW0dkYA",
+      "title": "iKi",
+      "desc": "Dance Film"
+    },
+    {
+      "thumb": "/assets/image/dance-film-dinopaki.png",
+      "videoLink": "kW60vOkWiUU",
+      "title": "Dinopaki",
+      "desc": "Dance Film"
+    },
+    {
+      "thumb": "/assets/image/fashion-film-elobeforest.png",
+      "videoLink": "FhydN2npb1Y",
+      "title": "ELOBE FOREST",
+      "desc": "Fashion Film"
+    },
+    {
+      "thumb": "/assets/image/tranbe.png",
+      "videoLink": "lfrei-mD4GA",
+      "title": "트렌비 마케팅 영상",
+      "desc": "Marketing Video"
+    },
+    {
+      "thumb": "/assets/image/instagram-02.png",
+      "videoLink": "bOjKYz7q2qE",
+      "title": "승엽 & 원준 - Instagram(딘)",
+      "desc": "Cover Video"
+    },
+    {
+      "thumb": "/assets/image/gse.png",
+      "videoLink": "9EtMMSqWqXY",
+      "title": "강남구사회적경제 | SNS 바이럴 영상",
+      "desc": "SNS Viral Video"
+    },
+    {
+      "thumb": "/assets/image/dinopaki.png",
+      "videoLink": "0shha_faXng",
+      "title": "Dinopaki Full Version",
+      "desc": "Dance Film"
+    },
+    {
+      "thumb": "/assets/image/hbga.png",
+      "videoLink": "cSQbel9wUxQ",
+      "title": "[HBGA이벤트 X 위댐보이즈] 너 빼고 다해!",
+      "desc": "Event Video"
+    },
+    {
+      "thumb": "/assets/image/jahwal.png",
+      "videoLink": "biFcnBSUGoQ",
+      "title": "강남지역자활센터 홍보영상",
+      "desc": "Marketing Video"
+    },
+    {
+      "thumb": "/assets/image/everlasting.png",
+      "videoLink": "20sQW-a07iE",
+      "title": "[EVERLASTING] ROMIN",
+      "desc": "Concept Film"
+    },
+    {
+      "thumb": "/assets/image/spring.png",
+      "videoLink": "iu_tGjTuIBM",
+      "title": "E'LAST U - 봄의 시작 Teaser",
+      "desc": "Music Video"
+    },
+    {
+      "thumb": "/assets/image/yejun.png",
+      "videoLink": "qeBxcIDdalw",
+      "title": "[EVERLASTING] YEJUN",
+      "desc": "Concept Film"
+    },
+    {
+      "thumb": "/assets/image/romin-ditto.png",
+      "videoLink": "hM9xzXJ0oac",
+      "title": "NEWJEANS - Ditto | Cover by ROMIN",
+      "desc": "Cover Video"
+    },
+    {
+      "thumb": "/assets/image/yejun-forever.png",
+      "videoLink": "OZSj7PIwVDk",
+      "title": "재현 - Forever Only｜Cover by YEJUN",
+      "desc": "Cover Video"
+    },
+    {
+      "thumb": "/assets/image/jahwal-short.png",
+      "videoLink": "boNR3l-OoTY",
+      "title": "강남지역자활센터 홍보영상 - short",
+      "desc": "Marketing Video"
+    },
+    {
+      "thumb": "/assets/image/seungyeop-cover.png",
+      "videoLink": "3Wpm9cnlbb4",
+      "title": "승엽 - 내 마음이 움찔했던 순간(규현)",
+      "desc": "Cover Video"
+    },
+    {
+      "thumb": "/assets/image/rano.png",
+      "videoLink": "IzYoCuSeYqo",
+      "title": "[EVERLASTING] RANO",
+      "desc": "Concept Film"
+    }
+  ]
 }
